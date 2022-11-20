@@ -1,0 +1,164 @@
+# depslib dependency file v1.0
+1668171770 source:d:\documents\codeblocks\sistema de gerenciamento de funcionarios\main.cpp
+	"Funcionario.h"
+	"Diretor.h"
+	"Presidente.h"
+	"Gerente.h"
+	"GerenciaFuncionarios.h"
+	<fstream>
+
+1668170668 d:\documents\codeblocks\sistema de gerenciamento de funcionarios\include\funcionario.h
+	<iostream>
+	<string>
+	<vector>
+
+1668171167 source:d:\documents\codeblocks\sistema de gerenciamento de funcionarios\src\funcionario.cpp
+	"Funcionario.h"
+
+1668171238 source:d:\documents\codeblocks\sistema de gerenciamento de funcionarios\src\gerente.cpp
+	"Gerente.h"
+
+1668170487 d:\documents\codeblocks\sistema de gerenciamento de funcionarios\include\gerente.h
+	"Funcionario.h"
+
+1668170398 source:d:\documents\codeblocks\sistema de gerenciamento de funcionarios\src\diretor.cpp
+	"Diretor.h"
+
+1668170487 d:\documents\codeblocks\sistema de gerenciamento de funcionarios\include\diretor.h
+	"Funcionario.h"
+
+1668170398 source:d:\documents\codeblocks\sistema de gerenciamento de funcionarios\src\presidente.cpp
+	"Presidente.h"
+
+1668170487 d:\documents\codeblocks\sistema de gerenciamento de funcionarios\include\presidente.h
+	"Funcionario.h"
+
+1668172013 source:d:\documents\codeblocks\sistema de gerenciamento de funcionarios\src\gerenciafuncionarios.cpp
+	"GerenciaFuncionarios.h"
+
+1668171770 d:\documents\codeblocks\sistema de gerenciamento de funcionarios\include\gerenciafuncionarios.h
+	"Funcionario.h"
+
+1668298972 source:c:\users\12345\desktop\sistema de gerenciamento de funcionarios\main.cpp
+	"Funcionario.h"
+	"Diretor.h"
+	"Presidente.h"
+	"Gerente.h"
+	"GerenciaFuncionarios.h"
+	<fstream>
+
+1668297774 c:\users\12345\desktop\sistema de gerenciamento de funcionarios\include\funcionario.h
+	<iostream>
+	<string>
+	<vector>
+
+1668297864 c:\users\12345\desktop\sistema de gerenciamento de funcionarios\include\diretor.h
+	"Funcionario.h"
+
+1668297808 c:\users\12345\desktop\sistema de gerenciamento de funcionarios\include\presidente.h
+	"Funcionario.h"
+
+1668297841 c:\users\12345\desktop\sistema de gerenciamento de funcionarios\include\gerente.h
+	"Funcionario.h"
+
+1668300907 c:\users\12345\desktop\sistema de gerenciamento de funcionarios\include\gerenciafuncionarios.h
+	"Funcionario.h"
+	<fstream>
+
+1668297797 source:c:\users\12345\desktop\sistema de gerenciamento de funcionarios\src\diretor.cpp
+	"Diretor.h"
+
+1668298180 source:c:\users\12345\desktop\sistema de gerenciamento de funcionarios\src\funcionario.cpp
+	"Funcionario.h"
+
+1668300913 source:c:\users\12345\desktop\sistema de gerenciamento de funcionarios\src\gerenciafuncionarios.cpp
+	"GerenciaFuncionarios.h"
+
+1668297836 source:c:\users\12345\desktop\sistema de gerenciamento de funcionarios\src\gerente.cpp
+	"Gerente.h"
+
+1668297825 source:c:\users\12345\desktop\sistema de gerenciamento de funcionarios\src\presidente.cpp
+	"Presidente.h"
+
+1668623605 source:c:\users\aluno\documents\c++\sistema de gerenciamento de funcionarios\main.cpp
+	"Funcionario.h"
+	"Diretor.h"
+	"Presidente.h"
+	"Gerente.h"
+	"GerenciaFuncionarios.h"
+	<fstream>
+
+1668620123 c:\users\aluno\documents\c++\sistema de gerenciamento de funcionarios\include\funcionario.h
+	<iostream>
+	<string>
+	<vector>
+
+1668297864 c:\users\aluno\documents\c++\sistema de gerenciamento de funcionarios\include\diretor.h
+	"Funcionario.h"
+
+1668297808 c:\users\aluno\documents\c++\sistema de gerenciamento de funcionarios\include\presidente.h
+	"Funcionario.h"
+
+1668297841 c:\users\aluno\documents\c++\sistema de gerenciamento de funcionarios\include\gerente.h
+	"Funcionario.h"
+
+1668622331 c:\users\aluno\documents\c++\sistema de gerenciamento de funcionarios\include\gerenciafuncionarios.h
+	"Funcionario.h"
+	<fstream>
+
+1668297797 source:c:\users\aluno\documents\c++\sistema de gerenciamento de funcionarios\src\diretor.cpp
+	"Diretor.h"
+
+1668621943 source:c:\users\aluno\documents\c++\sistema de gerenciamento de funcionarios\src\funcionario.cpp
+	"Funcionario.h"
+
+1668622331 source:c:\users\aluno\documents\c++\sistema de gerenciamento de funcionarios\src\gerenciafuncionarios.cpp
+	"GerenciaFuncionarios.h"
+
+1668297836 source:c:\users\aluno\documents\c++\sistema de gerenciamento de funcionarios\src\gerente.cpp
+	"Gerente.h"
+
+1668297825 source:c:\users\aluno\documents\c++\sistema de gerenciamento de funcionarios\src\presidente.cpp
+	"Presidente.h"
+
+1668624066 source:d:\sistema de gerenciamento de funcinario(davisondean)\sistema de gerenciamento de funcionarios\main.cpp
+	"Funcionario.h"
+	"Diretor.h"
+	"Presidente.h"
+	"Gerente.h"
+	"GerenciaFuncionarios.h"
+	<fstream>
+
+1668620124 d:\sistema de gerenciamento de funcinario(davisondean)\sistema de gerenciamento de funcionarios\include\funcionario.h
+	<iostream>
+	<string>
+	<vector>
+
+1668297866 d:\sistema de gerenciamento de funcinario(davisondean)\sistema de gerenciamento de funcionarios\include\diretor.h
+	"Funcionario.h"
+
+1668297810 d:\sistema de gerenciamento de funcinario(davisondean)\sistema de gerenciamento de funcionarios\include\presidente.h
+	"Funcionario.h"
+
+1668297842 d:\sistema de gerenciamento de funcinario(davisondean)\sistema de gerenciamento de funcionarios\include\gerente.h
+	"Funcionario.h"
+
+1668622332 d:\sistema de gerenciamento de funcinario(davisondean)\sistema de gerenciamento de funcionarios\include\gerenciafuncionarios.h
+	"Funcionario.h"
+	<fstream>
+
+1668297798 source:d:\sistema de gerenciamento de funcinario(davisondean)\sistema de gerenciamento de funcionarios\src\diretor.cpp
+	"Diretor.h"
+
+1668621944 source:d:\sistema de gerenciamento de funcinario(davisondean)\sistema de gerenciamento de funcionarios\src\funcionario.cpp
+	"Funcionario.h"
+
+1668622332 source:d:\sistema de gerenciamento de funcinario(davisondean)\sistema de gerenciamento de funcionarios\src\gerenciafuncionarios.cpp
+	"GerenciaFuncionarios.h"
+
+1668297838 source:d:\sistema de gerenciamento de funcinario(davisondean)\sistema de gerenciamento de funcionarios\src\gerente.cpp
+	"Gerente.h"
+
+1668297826 source:d:\sistema de gerenciamento de funcinario(davisondean)\sistema de gerenciamento de funcionarios\src\presidente.cpp
+	"Presidente.h"
+
